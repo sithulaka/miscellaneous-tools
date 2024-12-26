@@ -34,7 +34,7 @@ echo
 echo -e "${GREEN}[#############        \t] 80% \nCompiling Feelings...${NC}"
 sleep 2
 echo
-echo -e "${GREEN}#####################\t] 100% /nSUCCESS!${NC}"
+echo -e "${GREEN}#####################\t] 100% \nSUCCESS!${NC}"
 sleep 1
 echo
 echo -e "${NC}System Breach Complete! But wait... it's not hacking, it's my ❤️!${NC}"
